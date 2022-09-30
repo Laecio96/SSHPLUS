@@ -1,8 +1,8 @@
 ﻿```
 * UPDATE 29/09/2022 - projeto
-* SSHPLUS MANAGER (Final Versión 38)
+* SSHPLUS MANAGER ( Versão Final 38)
 ```
-![logo](https://github.com/laecio96/SSHPLUS/blob/master/Img/SSHPLUS_MANAGER.png)
+![logo](https://raw.githubusercontent.com/Laecio96/SSHPLUS/master/img/SSHPLUS_MANAGER.png)
 
 # SSHPLUS MANAGER
 É um script com um conjunto de funcionalidades e ferramentas adequadas para
@@ -43,7 +43,7 @@ SSHPLUS MANAGER (dependências ausentes serão instaladas automaticamente)
 
 ## :octocat: Credits
 1. @crazy_vpn - Developer of SSHPlus Manager
-2. LC Dev Team - Contributor 
+2. LC96 Dev Team - Contributor 
 ```
-☆ https://t.me/TEST [  ⃘⃤꙰✰ ] ☆
+☆ https://t.me/MetaSploit_X64BiT ☆
 ```
