@@ -42,8 +42,8 @@ SSHPLUS MANAGER (dependências ausentes serão instaladas automaticamente)
 * O idioma padrão é o português
 
 ## :octocat: Credits
-1. @crazy_vpn - Developer of SSHPlus Manager
+1. @laecioc96 - Developer of Plus Manager
 2. LC96 Dev Team - Contributor 
 ```
-☆ https://t.me/MetaSploit_X64BiT ☆
+☆ https://t.me/laecioc96 ☆
 ```
